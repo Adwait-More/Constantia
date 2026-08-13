@@ -6,7 +6,6 @@ Constantia brings hydration, habit tracking, productivity, study goals, and dail
 
 ## ✨ Planned Features
 
-* 💧 **Smart Hydration Reminders** - Stay on track with personalized water-intake reminders.
 * 🎯 **Habit & Goal Tracking** - Create, manage, and monitor daily habits and personal goals.
 * 📚 **Study & Productivity Tracking** - Organize study sessions and build more consistent productive routines.
 * 📱 **Screen-Time Awareness** - Monitor and improve digital habits for a healthier balance.
