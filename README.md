@@ -1,48 +1,49 @@
 # Constantia
 
-**A personalized digital wellness and productivity companion designed to help you build better habits, stay consistent, and make every day more intentional.**
+**A personalized digital wellness and productivity companion designed to help users build better habits, stay consistent, and make every day more intentional.**
 
-Constantia brings hydration, habit tracking, productivity, study goals, and daily progress together in one interactive platform. It is designed to make healthy routines easier to manage while adding a motivating and engaging experience for everyday users.
+Constantia brings habit tracking, productivity, study goals, screen-time awareness, and daily progress together in one unified platform. It is designed to simplify personal productivity and wellness management while providing an engaging experience that encourages consistency and long-term growth.
 
-## ✨ Planned Features
+## Planned Features
 
-* 🎯 **Habit & Goal Tracking** - Create, manage, and monitor daily habits and personal goals.
-* 📚 **Study & Productivity Tracking** - Organize study sessions and build more consistent productive routines.
-* 📱 **Screen-Time Awareness** - Monitor and improve digital habits for a healthier balance.
-* 🔥 **Streaks & Progress** - Track consistency, milestones, and daily achievements.
-* 👥 **Social Accountability** - Connect with friends, share progress, and motivate each other.
-* 🔐 **Secure Authentication** - Sign up and log in securely using Appwrite Authentication.
-* 📊 **Personalized Dashboard** - Get a clear overview of your daily activities, goals, and progress.
+* **Habit & Goal Tracking** — Create, manage, and monitor daily habits and personal goals.
+* **Study & Productivity Tracking** — Organize study sessions, set productivity goals, and develop consistent routines.
+* **Screen-Time Awareness** — Monitor digital habits and encourage a healthier balance between screen time and daily activities.
+* **Streaks & Progress** — Track consistency, milestones, achievements, and overall progress over time.
+* **Social Accountability** — Connect with friends, share progress, and encourage mutual accountability.
+* **Secure Authentication** — Provide secure user registration and authentication through Appwrite Authentication.
+* **Personalized Dashboard** — Access a centralized overview of daily activities, goals, habits, and progress.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Frontend**
+### Frontend
 
 * React
 * Tailwind CSS
 * JavaScript
 
-**Backend & Services**
+### Backend & Services
 
 * Appwrite
 * Appwrite Authentication
 * Appwrite Database
 
-**Development & Collaboration**
+### Development & Collaboration
 
 * Git
 * GitHub
 * GitHub Issues & Pull Requests
 
-## 🚀 Project Status
+## Project Status
 
-**🚧 In Development**
+**In Development**
 
-Constantia is currently under active development. Features and improvements will be introduced incrementally as the project evolves.
+Constantia is currently under active development. Features are being implemented incrementally, with continuous improvements to functionality, performance, usability, and overall user experience.
 
-## 🎯 Vision
+## Vision
 
-Our goal is to create a modern, engaging, and user-friendly platform that helps people turn small daily actions into consistent long-term habits.
+Constantia aims to provide a modern, intuitive, and engaging platform that helps users transform small daily actions into meaningful, consistent long-term habits.
 
 > **Build better habits. Stay consistent. Make every day count.**
+
 
