@@ -1,6 +1,54 @@
+
 body{
    background-image: url(https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg);  
+  margin: 0;             
+  display: flex;       
+  justify-content: center; 
+  align-items: center;  
+  min-height: 100vh;     
 }
+
+
 .login{
-   
+   display:flex;
+ 
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   width: 400px;
+   border: 5px solid rgb(222, 220, 234);
+   border-radius: 10px;
+background-color: rgba(0, 168, 215, 0.2);
+backdrop-filter: blur(10px);
 }
+input{
+   margin: 10px;
+   border-radius: 5px;
+   border: none;
+   padding: 5px;
+   width: 90%;
+   text-align: center;
+   color: rgb(24, 2, 2);
+    font-family: "Michroma", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   font-size: 20px;
+   font-weight: bold;
+}
+input[value="Login"]{
+   background-color: rgb(0, 168, 215);
+   color: white;
+   font-family: "Michroma", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   font-size: 20px;
+   font-weight: bold;
+}
+label{
+  font-family: "Michroma", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+   font-size: 20px;
+   font-weight: bold;
+}
+
