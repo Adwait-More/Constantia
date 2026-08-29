@@ -1,10 +1,14 @@
-const nameinput=document.getElementById('username');
-const passwordinput=document.getElementById('password');
-const loginform=document.getElementById('login form');
-form.addEventListener('submit', function(event) {
+const nameInput=document.getElementById('userName');
+const passwordInput=document.getElementById('password');
+const loginForm=document.getElementById('loginForm');
+loginForm.addEventListener('submit', function(event) {
     event.preventDefault();
-    const username=nameinput.value;
-    const password=passwordinput.value;
+    const username=nameInput.value;
+    const password=passwordInput.value;
     console.log('Username:', username);
     console.log('Password:', password);
+    if(username==='admin' && password==='password') {
+        alert('Login successful!');
+        window.location.href = 'index.html';
+    }
 });
