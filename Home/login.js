@@ -7,4 +7,5 @@ form.addEventListener('submit', function(event) {
     const password=passwordinput.value;
     console.log('Username:', username);
     console.log('Password:', password);
+    
 });
