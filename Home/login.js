@@ -7,5 +7,8 @@ loginForm.addEventListener('submit', function(event) {
     const password=passwordInput.value;
     console.log('Username:', username);
     console.log('Password:', password);
+    const loginData={
+        username: username,
+        password: password
     
 });
